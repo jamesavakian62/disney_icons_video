@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-Disney Video icons
+# Disney Video icons
 ![Screen Shot 2022-05-29 at 10 53 04 AM](https://user-images.githubusercontent.com/92414210/170884738-9825756d-d346-4fe4-89f9-c2cfb8013205.png)
 Login First
 
